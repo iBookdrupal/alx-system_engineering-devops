@@ -1,1 +1,1 @@
-Shell navigation repository
+0x00. Shell, basics

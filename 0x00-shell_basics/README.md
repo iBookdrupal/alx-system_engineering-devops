@@ -1,2 +1,14 @@
-The  first line in the file is described to be an executable file 
-The second command is to print the current working directory
+Task 0 Where am I
+Task 1. What’s in there?
+Task 2. There is no place like home
+Task 3. The long format
+Task 4. Hidden files
+Task 5. I love numbers
+Task 6. Welcome
+Task 7. Betty in my first directory
+Task 8. Bye bye Betty
+Task 9. Bye bye My first directory
+Task 10. Back to the future
+Task 11. Lists
+
+
